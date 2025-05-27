@@ -30,7 +30,7 @@ Fyne (framework para GUI)
 bash
 Copiar
 Editar
-git clone https://github.com/seuusuario/agenda-golang.git
+git clone [https://github.com/seuusuario/agenda-golang.git](https://github.com/zGUlian/PexAgenda.git)
 cd agenda-golang
 2. Inicialize o módulo Go
 bash
